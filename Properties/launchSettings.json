@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Sen (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Sen (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
