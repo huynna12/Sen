@@ -1,1 +1,0 @@
-C:\Users\Admin\source\repos\Sen\Sen.csproj;x64
